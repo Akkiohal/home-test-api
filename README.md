@@ -9,10 +9,13 @@
 # Use below command if above is not working:
 # docker run --platform linux/amd64 -p 3100:3100 automaticbytes/demo-app
 
+# USE below link to clone git repository to local machine :
+git clone https://github.com/Akkiohal/home-test-api.git
 
 # API base URL: http://localhost:3100/api
 
 # To Run Tests -> 
+# Import project in eclipse from the workspace where you have cloned the repository.
 1.Open Eclipse
 
 2.Right-click InventoryApiTests.java
